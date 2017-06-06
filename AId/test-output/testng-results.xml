@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13667" started-at="2017-06-05T12:40:40Z" finished-at="2017-06-05T12:40:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13667" started-at="2017-06-05T12:40:40Z" finished-at="2017-06-05T12:40:53Z">
+      <class name="com.MSDS_test.LoginTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.MSDS_test.LoginTest@16905e]" name="beforeClass" is-config="true" duration-ms="11647" started-at="2017-06-05T18:10:40Z" finished-at="2017-06-05T18:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:0, instance:com.MSDS_test.LoginTest@16905e]" name="verifyPageTitle" duration-ms="74" started-at="2017-06-05T18:10:52Z" finished-at="2017-06-05T18:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="verifyLoginPage()[pri:1, instance:com.MSDS_test.LoginTest@16905e]" name="verifyLoginPage" duration-ms="738" started-at="2017-06-05T18:10:52Z" finished-at="2017-06-05T18:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method status="PASS" signature="enterBlankLoginDetails()[pri:2, instance:com.MSDS_test.LoginTest@16905e]" name="enterBlankLoginDetails" duration-ms="238" started-at="2017-06-05T18:10:52Z" finished-at="2017-06-05T18:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterBlankLoginDetails -->
+        <test-method status="PASS" signature="enter_WrongLoginDetails()[pri:3, instance:com.MSDS_test.LoginTest@16905e]" name="enter_WrongLoginDetails" duration-ms="365" started-at="2017-06-05T18:10:53Z" finished-at="2017-06-05T18:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_WrongLoginDetails -->
+        <test-method status="PASS" signature="enter_CorrectLoginDetails()[pri:4, instance:com.MSDS_test.LoginTest@16905e]" name="enter_CorrectLoginDetails" duration-ms="522" started-at="2017-06-05T18:10:53Z" finished-at="2017-06-05T18:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_CorrectLoginDetails -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.MSDS_test.LoginTest@16905e]" name="afterClass" is-config="true" duration-ms="1" started-at="2017-06-05T18:10:53Z" finished-at="2017-06-05T18:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.MSDS_test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
